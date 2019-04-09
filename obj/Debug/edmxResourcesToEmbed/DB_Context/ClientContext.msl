@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TMARC_DBModelStoreContainer" CdmEntityContainer="ClientContext">
+    <EntitySetMapping Name="Clients">
+      <EntityTypeMapping TypeName="TMARC_DBModel.Clients">
+        <MappingFragment StoreEntitySet="Clients">
+          <ScalarProperty Name="ClientID" ColumnName="ClientID" />
+          <ScalarProperty Name="ClientOptIn" ColumnName="ClientOptIn" />
+          <ScalarProperty Name="ClientFirstName" ColumnName="ClientFirstName" />
+          <ScalarProperty Name="ClientProfile" ColumnName="ClientProfile" />
+          <ScalarProperty Name="ClientRewards" ColumnName="ClientRewards" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Keywords">
+      <EntityTypeMapping TypeName="TMARC_DBModel.Keywords">
+        <MappingFragment StoreEntitySet="Keywords">
+          <ScalarProperty Name="KeywordID" ColumnName="KeywordID" />
+          <ScalarProperty Name="Keyword" ColumnName="Keyword" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

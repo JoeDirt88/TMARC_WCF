@@ -1,0 +1,15 @@
+C:\Users\atara\source\repos\TMARC_1\TMARC_1\bin\TMARC_1.dll.config
+C:\Users\atara\source\repos\TMARC_1\TMARC_1\bin\TMARC_1.dll
+C:\Users\atara\source\repos\TMARC_1\TMARC_1\bin\TMARC_1.pdb
+C:\Users\atara\source\repos\TMARC_1\TMARC_1\obj\Debug\TMARC_1.csprojAssemblyReference.cache
+C:\Users\atara\source\repos\TMARC_1\TMARC_1\obj\Debug\TMARC_1.csproj.CoreCompileInputs.cache
+C:\Users\atara\source\repos\TMARC_1\TMARC_1\obj\Debug\TMARC_1.dll
+C:\Users\atara\source\repos\TMARC_1\TMARC_1\obj\Debug\TMARC_1.pdb
+C:\Users\atara\source\repos\TMARC_1\TMARC_1\bin\EntityFramework.dll
+C:\Users\atara\source\repos\TMARC_1\TMARC_1\bin\EntityFramework.SqlServer.dll
+C:\Users\atara\source\repos\TMARC_1\TMARC_1\bin\Newtonsoft.Json.dll
+C:\Users\atara\source\repos\TMARC_1\TMARC_1\bin\EntityFramework.xml
+C:\Users\atara\source\repos\TMARC_1\TMARC_1\bin\EntityFramework.SqlServer.xml
+C:\Users\atara\source\repos\TMARC_1\TMARC_1\bin\Newtonsoft.Json.pdb
+C:\Users\atara\source\repos\TMARC_1\TMARC_1\bin\Newtonsoft.Json.xml
+C:\Users\atara\source\repos\TMARC_1\TMARC_1\obj\Debug\TMARC_1.csproj.CopyComplete
